@@ -1,5 +1,5 @@
 selenium==3.141.0
-urllib3==1.25.10
+urllib3==1.26.17
 geckodriver-autoinstaller==0.1.0
 pygeckodriver==0.26.0
 selenium-firefox==0.5.18
